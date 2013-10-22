@@ -1,4 +1,4 @@
-tests
+Index repo for gh-pages
 =====
 
-HTML, CSS and JavaScript tests
+Just placeholder
